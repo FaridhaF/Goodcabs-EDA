@@ -1,0 +1,11 @@
+,city_name,avg_passenger_rating,target_avg_passenger_rating,metric met
+0,Jaipur,8.6,8.2,exceeded
+1,Lucknow,6.5,7.2,missed the target
+2,Surat,6.4,7.0,missed the target
+3,Kochi,8.5,8.5,missed the target
+4,Indore,7.8,8.0,missed the target
+5,Chandigarh,8.0,8.0,missed the target
+6,Vadodara,6.6,7.5,missed the target
+7,Visakhapatnam,8.4,8.5,missed the target
+8,Coimbatore,7.9,8.2,missed the target
+9,Mysore,8.7,8.5,exceeded
